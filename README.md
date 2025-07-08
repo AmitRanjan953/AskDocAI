@@ -42,14 +42,17 @@ Test: http://127.0.0.1:8501/docs
 .\venv\Scripts\activate
 streamlit run frontend/streamlit_app.py
 Open: http://localhost:8502
-----
+
+
+
  API Endpoints
 Endpoint   	 Method	       Description
-/upload	      POST	        Upload PDF/TXT
+/upload	     POST	        Upload PDF/TXT
 /predict	    POST        	Ask a question
 /challenge	  POST      	  Generate logic questions
 /evaluate   	POST	        Submit answers for evaluation
----
+
+
  Author
 Amit Ranjan Gupt
 B.Tech CSE (AI & ML)
