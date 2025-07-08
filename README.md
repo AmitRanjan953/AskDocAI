@@ -3,7 +3,7 @@
 A Smart GenAI Assistant for Research Summarization and Comprehension — built as part of the EZ Intern GenAI Task.
 
 ---
-✅ Features (As per Task)
+✅ Features 
 
 - 📤 Upload PDF/TXT files
 - 📑 Auto summary (≤150 words)
