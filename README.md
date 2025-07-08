@@ -44,14 +44,12 @@ streamlit run frontend/streamlit_app.py
 Open: http://localhost:8502
 
 
-
- API Endpoints
-Endpoint   	 Method	       Description
-/upload	     POST	        Upload PDF/TXT
-/predict	    POST        	Ask a question
-/challenge	  POST      	  Generate logic questions
-/evaluate   	POST	        Submit answers for evaluation
-
+🔁 API Endpoints
+Endpoint	Method	Description
+/upload	POST	Upload PDF/TXT
+/predict	POST	Ask a question
+/challenge	POST	Generate logic questions
+/evaluate	POST	Submit answers for evaluation
 
  Author
 Amit Ranjan Gupt
