@@ -1,6 +1,6 @@
  AskDocAI 💻
 
-A Smart GenAI Assistant for Research Summarization and Comprehension — built as part of the EZ Intern GenAI Task.
+A Smart GenAI Assistant for Research Summarization and Comprehension.
 
 ---
 ✅ Features 
@@ -46,7 +46,7 @@ Open: http://localhost:8502
 
 🔁 API Endpoints
 Endpoint	Method	Description
-/upload	POST	Upload PDF/TXT
+/upload	  POST	 Upload PDF/TXT
 /predict	POST	Ask a question
 /challenge	POST	Generate logic questions
 /evaluate	POST	Submit answers for evaluation
